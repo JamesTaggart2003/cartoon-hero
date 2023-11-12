@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	font-family: 'Bebas Neue', sans-serif;
+}
+
+header{
+	background-color: paleturquoise;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;	
+}
+h1, h2{
+	font-family: 'Cinzel', serif;
+	font-size: 50px;
+}
+header h1{
+	color: hotpink;
+	font-size: 100px;
+}
+
+header img{
+	 border-radius: 100px;
+	 width: 200;
+	 border: 15px solid darkslategray;
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 100%;
+}
+footer{
+	max-width: 1000px;
+	margin: 0 auto;
+}
