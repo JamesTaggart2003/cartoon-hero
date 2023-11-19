@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: 'Bebas Neue', sans-serif;
+	font-size: 25px;
+	line-height: 31px;
 }
 
 header{
@@ -12,12 +14,12 @@ header{
 h1, h2{
 	font-family: 'Cinzel', serif;
 	font-size: 50px;
+	color: teal;
 }
 header h1{
 	color: hotpink;
 	font-size: 100px;
 }
-
 header img{
 	 border-radius: 100px;
 	 width: 200;
@@ -27,6 +29,7 @@ header img{
 main{
 	max-width: 1000px;
 	margin: 0 auto;
+	padding: 0 20px;
 }
 
 main img{
@@ -35,4 +38,7 @@ main img{
 footer{
 	max-width: 1000px;
 	margin: 0 auto;
+}
+a{
+	color: teal;
 }
