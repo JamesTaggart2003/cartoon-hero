@@ -15,6 +15,7 @@ h1, h2{
 	font-family: 'Cinzel', serif;
 	font-size: 50px;
 	color: teal;
+	margin: 40px 0 10px;
 }
 header h1{
 	color: hotpink;
@@ -60,4 +61,6 @@ footer a:hover{
 }
 p.caption{
 	color: #999999;
+	font-style: italic;
+	margin-top: 0px;
 }
