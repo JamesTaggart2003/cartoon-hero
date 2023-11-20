@@ -29,7 +29,7 @@ header img{
 main{
 	max-width: 1000px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 20px;
 }
 
 main img{
@@ -37,8 +37,27 @@ main img{
 }
 footer{
 	max-width: 1000px;
+	background-color: paleturquoise;
 	margin: 0 auto;
+	padding: 50px;
+	text-align: center;
+}
+footer p{
+	margin: 0;
 }
 a{
 	color: teal;
+}
+a:hover{
+	color: violet;
+}
+footer a{
+	color: red;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+p.caption{
+	color: #999999;
 }
