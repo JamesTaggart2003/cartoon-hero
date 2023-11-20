@@ -55,6 +55,7 @@ a:hover{
 footer a{
 	color: red;
 }
+/* footers*/
 footer a:hover{
 	opacity: .5;
 	background-color: transparent;
